@@ -1,0 +1,21 @@
+[
+    {
+      "title": "Ufo Skateshop Ecomeerce",
+      "imgUrl":"img/Calculadora.png",
+      "tech":["HTML","CSS","BOOSTRAP", "REACT JS"], 
+      "trabajoUrl":"https://github.com/Micapedemonti"
+  },
+  {
+      "title": "AltamirandaMartinez website",
+      "tech":["HTML", "CSS", "BOOSTRAP" ,"JAVASCRIPT"],
+      "imgUrl":"img/altamiranda.png",
+      "trabajoUrl":"https://github.com/Micapedemonti"
+  },
+  {
+      "title": "Calculadora de propinas",
+      "imgUrl":"imageUrl",
+      "tech":["HTML", "CSS", "BOOSTRAP", "JAVASCRIPT"],
+      "trabajoUrl":"https://github.com/Micapedemonti"
+  }
+
+  ]
