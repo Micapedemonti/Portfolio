@@ -1,11 +1,8 @@
 const works = document.querySelector('#trabajos-container');
-// const cors = NodeRequire('cors');
 
-
-// app.use(cors());
 
 function cargarTrabajos() {
-    fetch('trabajos.json')
+    fetch('./trabajos.json')
         .then(respuesta => respuesta.json()) 
         .then(trabajos => {
            trabajos.forEach(trabajo => {

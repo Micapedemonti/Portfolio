@@ -1,4 +1,6 @@
+
 [
+
     {
       "title": "Ufo Skateshop Ecomeerce",
       "imgUrl":"img/Calculadora.png",
@@ -13,9 +15,15 @@
   },
   {
       "title": "Calculadora de propinas",
-      "imgUrl":"imageUrl",
+      "imgUrl":"img/Calculadora.png",
       "tech":["HTML", "CSS", "BOOSTRAP", "JAVASCRIPT"],
       "trabajoUrl":"https://github.com/Micapedemonti"
-  }
+  },
+  {
+    "title": "Weather App",
+    "imgUrl":"img/weatherApp.png",
+    "tech":["HTML", "CSS", "BOOSTRAP", "JAVASCRIPT"],
+    "trabajoUrl":"https://github.com/Micapedemonti"
+}
 
   ]
