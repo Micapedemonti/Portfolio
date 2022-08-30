@@ -13,6 +13,26 @@
   display: flex;
   border: none;
 }
+.imgSkill{
+    width: 55px;
+}
+.titleInicial{
+    display: block;
+    white-space: nowrap;
+    border-right: 4px solid;
+    width: 23ch;
+    animation: typing 2s steps(12), blink .5s infinite step-end alternate;
+    overflow: hidden;
+}
+.skills{
+    width: 50%;
+}
+@keyframes typing{
+    from{width: 0;}
+}
+@keyframes blink {
+    50% { border-color:transparent}
+}
 /* .btn-mode{
     display: inline-block;
     width: 50px;
@@ -85,6 +105,8 @@
 .servicios-container{
     padding-top: 3rem;
     padding-bottom: 3rem;
+    display: flex;
+    gap: 5%;
 }
 .servicios-container h1{
     color: rgb(79 70 229);
@@ -94,8 +116,10 @@
     font-size: 30px;
 }
 .servicios{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    display: flex;
+    flex-direction: column;
+    gap: 5%;
+    width: 50%;
 }
 .serv-container{
     padding: 20px;
@@ -104,6 +128,22 @@
     font-size: 14px;
     color: rgb(75 85 99 );
     border-radius: 0.35rem;
+}
+.serv-skill{
+    padding: 20px;
+    background-color: #CBD5E1;
+    font-family: 'inter', serif;
+    font-size: 14px;
+    color: rgb(75 85 99 );
+    border-radius: 0.35rem;
+    display: flex;
+    flex-direction: column;
+}
+.imgsSkill{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-content: center;
+    margin-top: 15px;
 }
 .trabajos-container{
     padding-top: 3rem;
@@ -252,3 +292,20 @@ font-size: 14px
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
   }
+  @media only screen and (max-width:1500px){
+
+}
+@media only screen and (max-width: 990px) {
+}
+@media only screen and (max-width:663px){
+.servicios{
+    grid-template-columns: 1fr 1fr;
+}
+.texto-central h1{
+    font-size: 30px;
+    text-align: center;
+}
+.about-me{
+    flex-direction: column;
+}
+}
