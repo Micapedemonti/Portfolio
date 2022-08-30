@@ -8,10 +8,10 @@
       "trabajoUrl":"https://github.com/Micapedemonti"
   },
   {
-      "title": "AltamirandaMartinez website",
+      "title": "AltamirandaMartinez ",
       "tech":["HTML", "CSS", "BOOSTRAP" ,"JAVASCRIPT"],
       "imgUrl":"img/altamiranda.png",
-      "trabajoUrl":"https://github.com/Micapedemonti"
+      "trabajoUrl":"https://altamirandamartinez.netlify.app/"
   },
   {
       "title": "Calculadora de propinas",
@@ -23,7 +23,7 @@
     "title": "Weather App",
     "imgUrl":"img/weatherApp.png",
     "tech":["HTML", "CSS", "BOOSTRAP", "JAVASCRIPT"],
-    "trabajoUrl":"https://github.com/Micapedemonti"
+    "trabajoUrl":"https://micapedemonti.github.io/weatherApp/"
 }
 
   ]

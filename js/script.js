@@ -7,14 +7,18 @@ function cargarTrabajos() {
         .then(trabajos => {
            trabajos.forEach(trabajo => {
                 const row = document.createElement('div')
-                row.className='hvr-float'
+                row.className='hvr-float containerWork'
                 row.innerHTML +=  `
+                <a href ="${trabajo.trabajoUrl}" class="linkWork">
                 <img class="img-work" src=${trabajo.imgUrl}>
                     <h3 class="title"> ${trabajo.title}</h3>
-                    <p class="tech-container"  ><span class="tech-work">${trabajo.tech[1]}</span>,<span class="tech-work">${trabajo.tech[2]}</span>,<span class="tech-work">${trabajo.tech[3]}</span></p>`;
-               row.style.borderRadius =  '0.5rem' 
+                    <p class="tech-container"  ><span class="tech-work">${trabajo.tech[1]}</span>,<span class="tech-work">${trabajo.tech[2]}</span>,<span class="tech-work">${trabajo.tech[3]}</span></p>
+                  `;
+             
+                    row.style.borderRadius =  '0.5rem' 
                row.style.width = '100%';
                row.style.backgroundColor = "rgb(203 213 225"
+               row.style.textDecoration= "none"
   
                
                 works.appendChild(row);
