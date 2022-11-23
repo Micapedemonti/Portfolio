@@ -231,6 +231,9 @@ font-size: 14px
   .dark-mode p{
     color:#CBD5E1
   }
+  .dark-mode .p-serv{
+    color:black;
+  }
   .tech-container{
     color: rgb(203, 213, 225)
   }
