@@ -21,7 +21,7 @@
     white-space: nowrap;
     border-right: 4px solid;
     width: 23ch;
-    animation: typing 2s steps(12), blink .5s infinite step-end alternate;
+    animation: typing 4s steps(44), blink .5s infinite step-end alternate;
     overflow: hidden;
 }
 .skills{
@@ -63,7 +63,7 @@
     opacity: 1;
     font-weight: 600;
     font-family: 'inter', serif;
-    font-size: 36px;
+    font-size: 30px;
 }
 .texto-central p {
     color: rgb(75 85 99 );
@@ -226,6 +226,9 @@ font-size: 14px
     background-color:rgb(15 23 42 );
     border:1px solid white;
     color:white;
+  }
+  .dark-mode p{
+    color:#CBD5E1
   }
   .tech-container{
     color: rgb(203, 213, 225)
