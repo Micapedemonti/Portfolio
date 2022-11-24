@@ -20,7 +20,7 @@
     display: block;
     white-space: nowrap;
     border-right: 4px solid;
-    width: 25ch;
+/*     width: 25ch; */
     animation: typing 4s steps(44), blink .5s infinite step-end alternate;
     overflow: hidden;
     text-align: center;
