@@ -30,7 +30,7 @@
 }
 @keyframes typing{
   from{width: 0;}
-  to {width: 18 em;}
+  to {width: 30 em;}
 }
 @keyframes blink {
     50% { border-color:transparent}
