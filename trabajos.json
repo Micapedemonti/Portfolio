@@ -2,7 +2,7 @@
 [ {
     "title": "TinderClon",
     "imgUrl":"img/tinderclon.png",
-    "tech":["REACTJS","JAVASCRIPT","MATERIAL-MUI"],
+    "tech":["REACTJS","JAVASCRIPT","MATERIAL MUI"],
     "trabajoUrl":"https://tinderclon.netlify.app/"
 },
 
