@@ -7,10 +7,10 @@
 },
 
     {
-      "title": "Taller Piedra Libre",
-      "imgUrl":"img/piedraLibre.png",
-      "tech":["HTML","CSS","BOOSTRAP"],
-      "trabajoUrl":"https://github.com/Micapedemonti"
+      "title": "Formulario de Registro",
+      "imgUrl":"img/formulariojs.png",
+      "tech":["HTML","CSS","BOOSTRAP","JAVASCRIPT"],
+      "trabajoUrl":"https://micapedemonti.github.io/formulario/"
   },
   {
       "title": "AltamirandaMartinez ",
