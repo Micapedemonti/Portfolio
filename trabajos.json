@@ -20,7 +20,7 @@
   },
   {
       "title": "Aplicacion de notas",
-      "imgUrl":"img/app-notas.jpg",
+      "imgUrl":"img/app-tareas.png",
       "tech":["HTML", "CSS", "BOOSTRAP", "JAVASCRIPT"],
       "trabajoUrl":"https://micapedemonti.github.io/appNotas/"
   },
