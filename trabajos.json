@@ -19,8 +19,8 @@
       "trabajoUrl":"https://altamirandamartinez.netlify.app/"
   },
   {
-      "title": "Calculadora de propinas",
-      "imgUrl":"img/Calculadora.png",
+      "title": "Aplicacion de notas",
+      "imgUrl":"img/app-notas.png",
       "tech":["HTML", "CSS", "BOOSTRAP", "JAVASCRIPT"],
       "trabajoUrl":"https://github.com/Micapedemonti"
   },
