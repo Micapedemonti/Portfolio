@@ -2,7 +2,7 @@
 [ {
     "title": "TinderClon",
     "imgUrl":"img/tinderclon.png",
-    "tech":["REACTJS","MATERIAL MUI","MATERIAL MUI"],
+    "tech":["REACTJS","MATERIAL MUI","CSS"],
     "trabajoUrl":"https://tinderclon.netlify.app/"
 },
 
@@ -20,7 +20,7 @@
   },
   {
       "title": "Aplicacion de notas",
-      "imgUrl":"img/app-notas.png",
+      "imgUrl":"img/app-notas.jpg",
       "tech":["HTML", "CSS", "BOOSTRAP", "JAVASCRIPT"],
       "trabajoUrl":"https://micapedemonti.github.io/appNotas/"
   },
