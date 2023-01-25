@@ -22,7 +22,7 @@
       "title": "Aplicacion de notas",
       "imgUrl":"img/app-notas.png",
       "tech":["HTML", "CSS", "BOOSTRAP", "JAVASCRIPT"],
-      "trabajoUrl":"https://github.com/Micapedemonti"
+      "trabajoUrl":"https://micapedemonti.github.io/appNotas/"
   },
   {
     "title": "Weather App",
