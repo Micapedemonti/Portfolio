@@ -8,7 +8,7 @@
 
     {
       "title": "Formulario de Registro",
-      "imgUrl":"img/formulario.jpg",
+      "imgUrl":"img/formulario.png",
       "tech":["HTML","CSS","BOOSTRAP","JAVASCRIPT"],
       "trabajoUrl":"https://micapedemonti.github.io/formulario/"
   },
