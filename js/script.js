@@ -12,7 +12,7 @@ function cargarTrabajos() {
                 <a href ="${trabajo.trabajoUrl}" class="linkWork">
                 <img class="img-work" src=${trabajo.imgUrl}>
                     <h3 class="title"> ${trabajo.title}</h3>
-                     <p class="tech-container"  ><span class="tech-work">${trabajo.tech[1]}</span>,<span class="tech-work">${trabajo.tech[2]}</span>,<span class="tech-work">${trabajo.tech[3]}</span>
+                     <p class="tech-container"  ><span class="tech-work">${trabajo.tech[0]}</span>,<span class="tech-work">${trabajo.tech[1]}</span>,<span class="tech-work">${trabajo.tech[2]}</span>,<span class="tech-work">${trabajo.tech[3]}</span>
                   </p>`;
                     row.style.borderRadius =  '0.5rem' 
                row.style.width = '100%';
