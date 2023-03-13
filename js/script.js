@@ -13,7 +13,7 @@ function cargarTrabajos() {
                 <img class="img-work" src=${trabajo.imgUrl}>
                     <h3 class="title"> ${trabajo.title}</h3>
                      <p class="tech-container"  ><span class="tech-work">${trabajo.tech[1]}</span>,<span class="tech-work">${trabajo.tech[2]}</span>,<span class="tech-work">${trabajo.tech[3]}</span>
-                  `;</p>
+                  </p>`;
                     row.style.borderRadius =  '0.5rem' 
                row.style.width = '100%';
                row.style.backgroundColor = "rgb(203 213 225"
