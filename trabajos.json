@@ -3,7 +3,7 @@
     
     {
     "title": "Netflix Trailers",
-    "imgUrl":"img/sin titulo.png",
+    "imgUrl":"img/Sin titulo.png",
     "tech":["REACTJS","BOOTSTRAP","AXIOS","MATERIAL MUI"],
     "trabajoUrl":"https://netflixtrailers.netlify.app/"
 },
