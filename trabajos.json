@@ -1,6 +1,12 @@
 
 [ 
-    
+     {
+        "title": "Bruno Foods",
+        "imgUrl":"img/brunofoods.png",
+        "tech":["REACTJS","BOOTSTRAP", "CSS"],
+        "trabajoUrl":"https://netflixtrailers.netlify.app/"
+    },
+ 
     {
     "title": "Netflix Trailers",
     "imgUrl":"img/netflix.png",
