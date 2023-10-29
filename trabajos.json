@@ -1,5 +1,11 @@
 
 [ 
+         {
+        "title": "My wallet",
+        "imgUrl":"img/my-wallet.png",
+        "tech":["REACTJS","FIREBASE", "CSS"],
+        "trabajoUrl":"https://my-wallet-mp.netlify.app/"
+    },
      {
         "title": "Bruno Foods",
         "imgUrl":"img/brunofoods.png",
