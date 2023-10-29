@@ -7,7 +7,7 @@
         "trabajoUrl":"https://my-wallet-mp.netlify.app/"
     },
      {
-        "title": "Bruno Foods",
+        "title": "Aureofoods",
         "imgUrl":"img/brunofoods.png",
         "tech":["REACTJS","BOOTSTRAP", "CSS"],
         "trabajoUrl":"https://aureofoods.cl/"
