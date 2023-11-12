@@ -109,7 +109,7 @@
     width: 50%;
 }
 .serv-container{
-    height:150px
+    height:150px;
     padding: 20px;
     background-color: #CBD5E1;
     font-family: 'inter', serif;
@@ -118,7 +118,7 @@
     border-radius: 0.35rem;
 }
 .serv-skill{
-    height:150px
+    height:150px;
     padding: 20px;
     background-color: #CBD5E1;
     font-family: 'inter', serif;
