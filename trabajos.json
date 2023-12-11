@@ -1,5 +1,13 @@
 
 [ 
+
+    {
+        "title": "APP DE TAREAS",
+        "imgUrl":"img/LISTA-TAREAS.png",
+        "tech":["PYTHON","DJANGO", "CSS"],
+        "trabajoUrl":"https://github.com/Micapedemonti/Lista_tareas"
+    },
+         
          {
         "title": "My wallet",
         "imgUrl":"img/my-wallet.png",
