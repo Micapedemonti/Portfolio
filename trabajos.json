@@ -1,6 +1,12 @@
 
 [ 
-
+    {
+        "title": "NORMATIVA LEGAL",
+        "imgUrl":"img/normativa-legal.png",
+        "tech":["REACT","BOOTSTRAP", "CSS"],
+        "trabajoUrl":"https://normativa.legal/"
+    },
+         
     {
         "title": "APP DE TAREAS",
         "imgUrl":"img/LISTA-TAREAS.png",
